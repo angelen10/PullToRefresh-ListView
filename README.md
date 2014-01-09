@@ -1,3 +1,5 @@
+这是一个下拉刷新的listview的实例。
+
 #  Android 'Pull to Refresh' ListView library
 
 ![Screenshot](https://github.com/erikwt/PullToRefresh-ListView/raw/master/android-pull-to-refresh.png)
